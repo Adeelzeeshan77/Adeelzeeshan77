@@ -1,0 +1,11 @@
+- I am ADEEL ZEESHAN
+- My 17 years old
+- I am currently doing my intermediate study
+- I live in pakistan
+- I have a great interest in CEH which stand for (certified ethical hacker) and development in python
+- I had done a lot of projects in python
+- I had completed my CCNA which stand (Cisco certified associate network)
+- I had done python course
+- I have no experience of computer job except making projects. Have knowledge of librarys, api etc.
+- 
+- 
